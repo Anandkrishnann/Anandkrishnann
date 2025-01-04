@@ -97,10 +97,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">📈 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadithyapt&show_icons=true&theme=radical" alt="aadithyapt Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandkrishnann&show_icons=true&theme=radical" alt="Anandkrishnann Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithyapt&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandkrishnann&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
