@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🛠 *Technical Skills: Proficient in **Excel, **Power BI, **Python, **SQL, and **Data Visualization*.
 - 🌱 *Continuous Growth*: Committed to ongoing learning and upskilling to stay at the forefront of data science and analytics.
 - 🤝 *Collaborative Mindset*: Enthusiastic about working on innovative data projects, leveraging machine learning and predictive modeling to solve real-world problems.
-- 📫 *Get in Touch: Reach me at **aadithyapt1648@gmail.com* – let's turn data into actionable insights together!
+- 📫 *Get in Touch: Reach me at **anandkrishnann5@gmail.com* – let's turn data into actionable insights together!
 
 ---
 
